@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clase02</string>
+    <string name="imgprod">Producto...</string>
+    <string name="prod">Producto...</string>
+    <string name="precio">Precio...</string>
+    <string name="cant">Cantidad...</string>
+    <string name="ncod">txtcodigo</string>
+    <string name="nprod">txtproducto</string>
+
+</resources>
